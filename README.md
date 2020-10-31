@@ -1,6 +1,11 @@
-# LoginApp_withIcons
+# LOGIN_UI
 
-A new Flutter project.
+A Beautiful login ui in flutter
+
+# Screenshot
+
+<br/><img src="https://github.com/rahamanar/Login_UI/blob/main/Screenshot_1.png" width="205" height="380">
+
 
 ## Getting Started
 
